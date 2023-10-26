@@ -1,3 +1,4 @@
 course-venv
 .vscode
 prof
+.ipynb_checkpoints
