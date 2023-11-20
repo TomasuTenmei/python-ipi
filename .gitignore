@@ -2,3 +2,4 @@ course-venv
 .vscode
 prof
 .ipynb_checkpoints
+fastapi-api-pokemon/
